@@ -1,0 +1,102 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Yael\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Yael\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\res\\values\\base-strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "697,766,828,887,948",
+                        "endColumns": "68,61,58,60,52",
+                        "endOffsets": "761,823,882,943,996"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Yael\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "295,365,408,452,497,540,582",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "360,403,447,492,535,577,645"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Yael\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "20,22,23,24,25,29",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1218,1364,1424,1477,1504,1700",
+                        "endLines": "20,22,23,24,28,34",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1264,1419,1472,1499,1695,1973"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Yael\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "19,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1",
+                        "startOffsets": "875,-1,-1,-1",
+                        "endColumns": "46,-1,-1,-1",
+                        "endOffsets": "917,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "11,17,18,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "650,1001,1084,1134",
+                        "endColumns": "46,82,49,83",
+                        "endOffsets": "692,1079,1129,1213"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Yael\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Yael\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "1269",
+                        "endColumns": "94",
+                        "endOffsets": "1359"
+                    }
+                }
+            ]
+        }
+    ]
+}
